@@ -1,4 +1,4 @@
-# Groq App Generator
+# AppGEN Generator
 
 An interactive web application that generates and modifies web applications using Groq's LLM API. Built with Next.js and TypeScript.
 
